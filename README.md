@@ -1,2 +1,2 @@
-#100K Coding Challenge
+# 100K Coding Challenge
 This Repo is made to showcase my foundational C programming skills I've learned with a YouTube playlist made by Brototyp called "100K Coding Challenge". I completed the C language lessons in 2021, before I joined my college for B.Tech Degree in Electronics and Communication. It really did help me start with C programming and it was the only reason I got my foundation strong in it and also made my C programming paper in 2nd semseter easier for me.
